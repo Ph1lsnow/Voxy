@@ -1,5 +1,5 @@
 # Voxy - очеловечевание роботизированных голосов
-#### `NOSTYLIST | Silero ML PyTorch  Deep Learning
+#### NOSTYLIST | Silero ML PyTorch  Deep Learning
 ***
 ## Описание
 открытая библиотека для добавления пауз в речь голосового помощника.
